@@ -1,7 +1,5 @@
 package Codeforces.A;
-
 import java.util.*;
-
 public class NextRound_158A {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
