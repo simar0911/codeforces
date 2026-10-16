@@ -1,7 +1,7 @@
-package Codeforces.A;
+package Codeforces.B;
 import java.util.*;
 public class Chocolate_617B {
-        public static void main(String[] args) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         
