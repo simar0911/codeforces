@@ -1,6 +1,6 @@
 package Codeforces.A;
 import java.util.*;
-public class UltraFatMathematician_61A {
+public class UltraFastMathematician_61A {
         public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
